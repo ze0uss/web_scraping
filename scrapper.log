@@ -5386,3 +5386,142 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.18:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:35:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:35:54] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:35:54] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:35:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'mi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'No fingerprint, no battery sensors for use with apps like accubattery. Clear but average camera. No lag for 3gb variant. Solid build quality for price range. Good phone!'}, {'Product': 'mi', 'Name': 'sudha Kalindi', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Nyc product..camera quality is good...👍'}, {'Product': 'mi', 'Name': 'Uma Shankar', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Phone working is Very Good'}, {'Product': 'mi', 'Name': 'Shreya  Mukherjee', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice one'}, {'Product': 'mi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Nice phone'}, {'Product': 'mi', 'Name': 'ajmira khatun', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Nice'}, {'Product': 'mi', 'Name': 'Rajesh Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Good mobile 🤳'}, {'Product': 'mi', 'Name': 'Nitish kumar Paswan', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'good product'}, {'Product': 'mi', 'Name': 'ANUP SINGH', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome product in minimum range'}, {'Product': 'mi', 'Name': 'Vicky Odabi', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Just good'}, {'Product': 'mi', 'Name': 'Vicky Odabi', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Just good'}]
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:37:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:37:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:37:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:38:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:38:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:40:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:41:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:41:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:41:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:41:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:41:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:43:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'pocox2', 'Name': 'Vaishak R', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Very Fast Delivery Thanku FlipkartDisplay Quality SuperBCamera Quality These types of  Midrange phones competitions wise Poco x2 Such a Very Good camera QualityFast Charging BrilliantNot a big heating just little heating sometimes for But  Open Camera in daylight big heating issuses (plz solve the next update)For PubG no lag issues 👌👌 Especially game turbo mode was very good4500mah was not good i feel only 4000mah 🙁And Audio Quality was perfect Over all Very Good Phone for Midrange...'}, {'Product': 'pocox2', 'Name': 'vishal kumar', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Best phone ever i have. Camera, display refresh rate is amazing. Some having battery issue but i don't feel this  such a issue bcz 120hertz diplay need such power to fulfill all your desires. 2 things r there, if performance is good then battery drain is not a problem and if battery is long lasting then performace is dull. So it's okay  and after that fast charging is also available, 1 hr is enough for charging time. So guys if u like this phone then go for it and it's also a budget phone for..."}, {'Product': 'pocox2', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome Camera, If U wanna Buy A SmartPhone,..like_CameraQuality,Battery backup,OperateSmoothly,Nd What ever U want You Just Buy....Nd i Promise You Never get or Feel bored,....So this is My honest review,Nd tell me Your Review With honest when you Brought.Love U All guys 😘😘😘😘😘'}, {'Product': 'pocox2', 'Name': 'Vikas Shukla', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'The phone is superior as compared to another mid-range breaker. The camera is outstanding in this price attached camera sample. Pubg gaming is like wow hd+ultra graphic m using right now. The display is also good. A little bit heavy but if uh start using will be used to it. 120 Hz refresh rate is awesome uh will see the difference when watching YouTube or another online streaming platform.. the only prob is with battery maybe this issue fixed when next OTA updates.Pros1- faster gaming proce...'}, {'Product': 'pocox2', 'Name': 'Shivam Sharma', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Best flagship phone in this price segmentI have buyed 8gb 256gb varient. And the performance is absolutely amazing. Pros1- faster gaming processor 730G2- best camera 64 mp 3- variety of features in the camera4- super fast charger 5- refresh rate is awesome6-sound is pretty good7- pubg run smoothly8- phone design is very unique9 - liquid cooling technology10 comes with IR BLASTERCons 1 - refresh rate consume more battery2 -no pre-applied screen guard comes on this phone .3 - no...'}, {'Product': 'pocox2', 'Name': 'RAKESH RAJ', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing camera quality and 120 refresh rate is awesome it makes really. Smooth 960fps slow motion is fabulous great phone and it is worth it in this range....'}, {'Product': 'pocox2', 'Name': 'Monojit Ghosh', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': "I am writing this review after three weeks of usage, I have the 8GB/256GB varient.The pros and cons of this product are as follows:-Pros:-Camera:- The Poco X2 comes with a Sony IMX686 sensor which is first in India and is actually a beast in itself. The image clarity and saturation is really impressive.    10/10Display:- The Poco X2 comes with a LCD IPS Display which according to me is quite disappointing for user who used to watch movies in HDR+ content. But for users like me it isn't a ..."}, {'Product': 'pocox2', 'Name': 'Kris. T', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing product Camera is just awesome Battery backup is quite goodPerformance is too good 120 Hz refresh rate is just amazing POCO x2 is beast'}, {'Product': 'pocox2', 'Name': 'Viki Reddy', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Very nice products I m so excited In poco x2 amazing Phone good quality good camara good backup good screen good fast processer'}, {'Product': 'pocox2', 'Name': 'Prasad Kaligiti', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': "Except heat problem music out put in earphones overal device such as beatiful and energetic perfomance ..Display 10/10 - better than amoled screen.Cam 10/10 - like DSLR and more had  effects.processor 10/10 Super speed whith in milliseconds.Battery 7/10 battery mah is good but draining down speed.Music 5/10 no bass found in music while using apple airpods.Super fast charging with 27w charger.Big mobile and weight also.8/256GB Purchased ... It's better than realme XT,X2,6,6 pro, redmi..."}, {'Product': 'pocox2', 'Name': 'Prasad Kaligiti', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Except heat problem music out put in earphones overal device such as beatiful and energetic perfomance ..Display 10/10 - better than amoled screen.Cam 10/10 - like DSLR and more had  effects.processor 10/10 Super speed whith in milliseconds.Battery 7/10 battery mah is good but draining down speed.Music 5/10 no bass found in music while using apple airpods.Super fast charging with 27w charger.Big mobile and weight also.8/256GB Purchased ... It's better than realme XT,X2,6,6 pro, redmi..."}]
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:50:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:50:02] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 14:50:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.18:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 15, in homepage
+    return render_template("index.html")
+  File "/config/.local/lib/python3.8/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/config/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/config/workspace/review-scrapper-aws-main/templates/index.html", line 11, in template
+    {% comment %} <h1 style="text-align: center">Search</h1> {% endcomment %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'comment'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 15:15:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 15, in homepage
+    return render_template("index.html")
+  File "/config/.local/lib/python3.8/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/config/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/config/workspace/review-scrapper-aws-main/templates/index.html", line 11, in template
+    {% comment %} <h1 style="text-align: center">Search</h1> {% endcomment %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'comment'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 15:16:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/config/.local/lib/python3.8/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 15, in homepage
+    return render_template("index.html")
+  File "/config/.local/lib/python3.8/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/config/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "/config/.local/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/config/workspace/review-scrapper-aws-main/templates/index.html", line 11, in template
+    {% comment %} <h1 style="text-align: center">Search</h1> {% endcomment %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'comment'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+INFO:werkzeug:172.18.0.2 - - [17/May/2023 15:16:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
